@@ -1,4 +1,4 @@
-DISCLAIMER: I am not responsible you crash your car or your PC
+DISCLAIMER: I am not responsible if you crash your car or your PC
 
 Mahindra eSUV's Releases/Updates manuals regularly and doesnt give us a pdf or printed manually for offline use.
 
