@@ -19,7 +19,7 @@ NOTE: Works and Tested on Winodws 11
 2) Save the page as _Manual.mhtml_ (NOTE: dont save as html, you need to save as mhtml)
 3) Download the _mhtml_to_pdf.js_
 4) Place both _Manual.mhtml_ & _mhtml_to_pdf.js_ in one folder
-5) Run the _mhtml_to_pdf.js_ in Terminal as
+5) Run the _mhtml_to_pdf.js_ in Terminal inside the folder as
 
 ```cmd
 node mhtml_to_pdf.js "Manual.mhtml" "Vehicle_Manual.pdf"
