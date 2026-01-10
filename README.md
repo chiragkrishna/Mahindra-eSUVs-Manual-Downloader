@@ -21,7 +21,11 @@ NOTE: Works and Tested on Winodws 11
 4) Place both _Manual.mhtml_ & _mhtml_to_pdf.js_ in one folder
 5) Run the _mhtml_to_pdf.js_ in Terminal inside the folder as
 
-```cmd
+```bash
+# Install puppeteer if you dont have it first
+npm install puppeteer
+
+# Run the script
 node mhtml_to_pdf.js "Manual.mhtml" "Vehicle_Manual.pdf"
 ```
 6) Generated Vehicle_Manual.pdf file will be huge
