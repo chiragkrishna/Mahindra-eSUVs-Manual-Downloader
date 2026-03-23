@@ -104,4 +104,4 @@ You can compress it using tools like:
 
 ## Survey of Mahindra eSUV's
 
-Recent survey regarding problems with Mahindra eSUV's was done in March 2026. Details can be found Here
+Recent survey regarding problems with Mahindra eSUV's was done in March 2026. Details can be found [Here](https://github.com/chiragkrishna/Mahindra-eSUVs-Manual-Downloader/tree/main/Survey)
