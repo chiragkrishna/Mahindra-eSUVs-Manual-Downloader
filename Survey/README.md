@@ -1,5 +1,7 @@
 # Mahindra BE / XEV Software Problems
 
+Disclaimer: This Data from the Survey was generated with the help of an A.I, The Author is not responsible for anything.
+
 This document summarizes the major software and service issues identified from the survey analysis (March 2026).
 
 ## Source Reports
