@@ -4,8 +4,8 @@ This document summarizes the major software and service issues identified from t
 
 ## Source Reports
 
-- Data Analysis Report.pdf
-- Survey Takeaways & Performance Audit.pdf
+- [Data Analysis Report.pdf](https://github.com/chiragkrishna/Mahindra-eSUVs-Manual-Downloader/blob/main/Survey/Data%20Analysis%20Report.pdf)
+- [Survey Takeaways & Performance Audit.pdf](https://github.com/chiragkrishna/Mahindra-eSUVs-Manual-Downloader/blob/main/Survey/Survey%20Takeaways%20%26%20Performance%20Audit.pdf)
 
 ---
 
